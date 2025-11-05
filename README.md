@@ -1,2 +1,2 @@
-# snippet_template
+# snippet template
 Template for a repo of snippets that automatically creates a pdf
